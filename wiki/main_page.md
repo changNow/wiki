@@ -2,7 +2,8 @@
 redirect_from: "/"
 ---
 
-This is a sample of main page. You can edit it to start your wiki.
+>「覚悟」とは暗闇の荒野に
+>進むべき道を切り開くことだッ！
 
-For documentation, installation guide and demo of [git-wiki-theme](git-wiki-theme) visit this [link](http://drassil.github.io/git-wiki/)
+>                         ジョルノ・ジョバーナ
 
